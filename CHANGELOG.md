@@ -6,5 +6,4 @@ All notable changes to this project will be documented in this file. The format 
 
 ### Changed
 
-- Updated example code ([#63](https://github.com/asmaloney/GDExtensionTemplate/pull/63))
-- Updated bindings for Godot 4.1 ([#62](https://github.com/asmaloney/GDExtensionTemplate/pull/62))
+- Updated bindings for Godot 4.2.2-stable
